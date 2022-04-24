@@ -5,7 +5,7 @@ Instrucciones de instalación para hydra nodes. Nosotros recomendamos utilizar D
 ## Usando Docker 
 La forma más rápida para hacer funcionar el Hydra Node es usar Docker Images 
 ```console 
- docker pull ghcr.io/input-output-hk/hydra-node:latest
+docker pull ghcr.io/input-output-hk/hydra-node:latest
 docker run --rm ghcr.io/input-output-hk/hydra-node --help
 ```
 
