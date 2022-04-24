@@ -1,4 +1,4 @@
-Instrucciones de instalación para Hydra Nodes
+### Instrucciones de instalación para Hydra Nodes
 
 Instrucciones de instalación para hydra nodes. Nosotros recomendamos utilizar Docker.
 
